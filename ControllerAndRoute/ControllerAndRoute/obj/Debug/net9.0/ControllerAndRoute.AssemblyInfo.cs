@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControllerAndRoute")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6876d00c47e98010da90d17bafbd169e2dacd47")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControllerAndRoute")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControllerAndRoute")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
