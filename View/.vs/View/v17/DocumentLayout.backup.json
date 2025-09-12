@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\projects\\.net-app\\Web Development\\View\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74ACE71A-B68E-483A-817A-C1893F46C9DD}|View\\View.csproj|f:\\projects\\.net-app\\web development\\view\\view\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74ACE71A-B68E-483A-817A-C1893F46C9DD}|View\\View.csproj|solutionrelative:view\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74ACE71A-B68E-483A-817A-C1893F46C9DD}|View\\View.csproj|f:\\projects\\.net-app\\web development\\view\\view\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74ACE71A-B68E-483A-817A-C1893F46C9DD}|View\\View.csproj|solutionrelative:view\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74ACE71A-B68E-483A-817A-C1893F46C9DD}|View\\View.csproj|f:\\projects\\.net-app\\web development\\view\\view\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74ACE71A-B68E-483A-817A-C1893F46C9DD}|View\\View.csproj|solutionrelative:view\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\View\\View\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "View\\Views\\Book\\Index.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\View\\View\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "View\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T15:31:22.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\View\\View\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "View\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\View\\View\\Controllers\\BookController.cs",
+              "RelativeToolTip": "View\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:14:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\View\\View\\Models\\Book.cs",
               "RelativeDocumentMoniker": "View\\Models\\Book.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\View\\View\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "View\\Models\\ErrorViewModel.cs",

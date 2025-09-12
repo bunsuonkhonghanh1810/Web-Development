@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using Lab03.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,7 +15,14 @@ namespace Lab03.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var newestProducts = new List<Product>
+            {
+                new Product { Id = 1, Name = "Nồi cơm điện cao tần Nagakawa NAG0102", ImageUrl = "https://kangaroo.vn/wp-content/uploads/noi-com-dien-kg-822.jpg" },
+                new Product { Id = 2, Name = "Nồi cơm điện cao tần Nagakawa NAG0102", ImageUrl = "https://kangaroo.vn/wp-content/uploads/noi-com-dien-kg-822.jpg" },
+                new Product { Id = 3, Name = "Nồi cơm điện cao tần Nagakawa NAG0102", ImageUrl = "https://kangaroo.vn/wp-content/uploads/noi-com-dien-kg-822.jpg" }
+            };
+
+            return View(newestProducts);
         }
 
         public IActionResult Privacy()

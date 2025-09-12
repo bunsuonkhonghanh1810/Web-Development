@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "View\\Views\\Book\\Index.cshtml",
               "ToolTip": "F:\\projects\\.net-app\\Web Development\\View\\View\\Views\\Book\\Index.cshtml",
               "RelativeToolTip": "View\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCsAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-04T15:31:22.152Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "View\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T15:14:04.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T15:14:04.311Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "View\\Models\\Book.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAADUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T13:36:55.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T13:36:55.329Z"
             },
             {
               "$type": "Document",

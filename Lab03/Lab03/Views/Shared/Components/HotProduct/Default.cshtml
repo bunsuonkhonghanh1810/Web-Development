@@ -1,0 +1,12 @@
+﻿@model List<Lab03.Models.Product>
+
+<div class="section-title">Sản phẩm nổi bật</div>
+<div class="product-list">
+    @foreach (var product in Model)
+    {
+        <div class="product-item">
+            <img src="@product.ImageUrl" alt="@product.Name" />
+            <h6>@product.Name</h6>
+        </div>
+    }
+</div>
