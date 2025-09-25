@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+    <h3>User Details</h3>
+    @{
+        var user = ViewBag.user;
+    }
+    @foreach (var p in user)
+    {
+        @p.name
+        <br />
+        @p.address
+        <br />
+        @p.email
+        <br />
+        <br />
+ }
+</body>
+</html>
