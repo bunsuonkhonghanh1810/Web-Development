@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "F:\\projects\\.net-app\\Web Development\\Lab05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,19 +18,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 192,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:28:57.305Z",
+              "WhenOpened": "2025-09-25T16:47:40.431Z",
               "EditorCaption": ""
             },
             {
@@ -71,119 +39,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:29:02.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\_ViewStart.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:28:38.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\_ViewImports.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:28:34.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Lab05\\Controllers\\EmployeeController.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Lab05\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:21:13.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Lab05\\Models\\Employee.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Models\\Employee.cs",
-              "RelativeToolTip": "Lab05\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:17:04.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Lab05\\Models\\ErrorViewModel.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Lab05\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T16:16:37.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:29:01.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:24:08.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Details.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\Employee\\Details.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Details.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\Employee\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:24:30.402Z",
+              "WhenOpened": "2025-09-25T16:47:41.116Z",
               "EditorCaption": ""
             }
           ]
