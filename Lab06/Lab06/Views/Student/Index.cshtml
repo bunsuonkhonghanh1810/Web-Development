@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Lab06.Models.Student>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Password</th>
+            <th>Branch</th>
+            <th>Gender</th>
+            <th>IsRegular</th>
+            <th>Address</th>
+            <th>Dob</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stu in Model)
+        {
+            <tr>
+                <td>@stu.Id</td>
+                <td>@stu.Name</td>
+                <td>@stu.Email</td>
+                <td>@stu.Password</td>
+                <td>@stu.Branch</td>
+                <td>@stu.Gender</td>
+                <td>@stu.IsRegular</td>
+                <td>@stu.Address</td>
+                <td>@stu.Dob</td>
+            </tr>
+        }
+    </tbody>
+</table>

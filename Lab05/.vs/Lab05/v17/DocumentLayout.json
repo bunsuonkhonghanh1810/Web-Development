@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "F:\\projects\\.net-app\\Web Development\\Lab05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|f:\\projects\\.net-app\\web development\\lab05\\lab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E590940-C41C-4DAD-913F-E01C82EF1CD3}|Lab05\\Lab05.csproj|solutionrelative:lab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 192,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Lab05\\Views\\_ViewStart.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Lab05\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:47:40.431Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -40,6 +47,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T13:04:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T13:04:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T13:01:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Lab05\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Lab05\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:00:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab05\\Models\\Employee.cs",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Models\\Employee.cs",
+              "RelativeToolTip": "Lab05\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:39:43.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:47:40.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\Lab05\\Lab05\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab05\\Views\\Shared\\_Layout.cshtml",
@@ -47,8 +130,7 @@
               "RelativeToolTip": "Lab05\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T16:47:41.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T16:47:41.116Z"
             }
           ]
         }
