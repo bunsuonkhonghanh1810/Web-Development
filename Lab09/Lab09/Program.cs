@@ -1,7 +1,13 @@
+using Lab09.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<Lab09DbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Lab09DbConnection")));
 
 var app = builder.Build();
 

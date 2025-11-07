@@ -1,0 +1,99 @@
+﻿/* ====== Tổng thể trang ====== */
+body {
+    background-color: #f8f9fa;
+    font-family: "Segoe UI", Roboto, sans-serif;
+    color: #333;
+    margin: 0;
+}
+
+/* ====== Header ====== */
+header .navbar {
+    background: linear-gradient(90deg, #007bff, #00b4d8);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+    header .navbar .navbar-brand {
+        color: #fff !important;
+        font-weight: bold;
+        font-size: 1.25rem;
+    }
+
+    header .navbar .nav-link {
+        color: #e9ecef !important;
+        transition: 0.3s;
+    }
+
+        header .navbar .nav-link:hover {
+            color: #fff !important;
+            text-decoration: underline;
+        }
+
+/* ====== Container chính ====== */
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    min-height: calc(100vh - 120px);
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+/* ====== Menu trái ====== */
+.left-menu {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 1.25rem;
+    flex-shrink: 0;
+    width: 240px;
+}
+
+    .left-menu h5 {
+        font-weight: 600;
+        color: #007bff;
+    }
+
+    .left-menu ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+    .left-menu .nav-link {
+        color: #555;
+        border-radius: 6px;
+        transition: all 0.2s ease-in-out;
+    }
+
+        .left-menu .nav-link:hover {
+            background-color: #007bff;
+            color: #fff !important;
+        }
+
+/* ====== Nội dung chính ====== */
+main {
+    flex-grow: 1;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ====== Footer ====== */
+footer {
+    background-color: #f1f3f5;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+    border-top: 1px solid #dee2e6;
+    color: #555;
+}
+
+/* ====== Responsive ====== */
+@media (max-width: 992px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .left-menu {
+        width: 100%;
+    }
+}

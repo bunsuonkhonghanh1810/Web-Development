@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Lab01.Models.MenuItem>
+
+<div class="left-menu bg-light p-3" style="min-width:220px;">
+    <h5 class="mb-3">Menu</h5>
+    <ul class="nav flex-column mb-3">
+        <li class="nav-item mb-1">
+            <a class="nav-link p-2 rounded" href="/Admin/Student/List">Dashboard</a>
+        </li>
+    </ul>
+
+    @foreach (var i in Model)
+    {
+        <ul class="nav flex-column mb-3">
+            <li class="nav-item mb-1">
+                <a class="nav-link p-2 rounded" href="@i.Link">@i.Name</a>
+            </li>
+        </ul>
+    }
+</div>

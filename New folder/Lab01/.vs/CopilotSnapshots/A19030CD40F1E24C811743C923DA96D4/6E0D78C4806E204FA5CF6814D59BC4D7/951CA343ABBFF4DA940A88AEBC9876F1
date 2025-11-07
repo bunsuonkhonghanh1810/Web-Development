@@ -1,0 +1,18 @@
+﻿@model List<Lab01.Models.Branch>
+<div class="left-menu bg-light p-3" style="min-width:200px;">
+    <h5>Menu</h5>
+    <ul class="nav flex-column mb-3">
+        <li class="nav-item">
+            <a class="nav-link" asp-controller="Student" asp-action="Index">Dashboard</a>
+        </li>
+    </ul>
+    <h6>Branches</h6>
+    <ul class="nav flex-column">
+        @foreach (var branch in Model)
+        {
+            <li class="nav-item">
+                <span class="nav-link">@branch.ToString()</span>
+            </li>
+        }
+    </ul>
+</div>
