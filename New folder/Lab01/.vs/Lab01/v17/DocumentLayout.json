@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -63,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -81,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|solutionrelative:lab01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9819A857-5AF6-4C6D-BECA-06DD34FE05AF}|Lab01\\Lab01.csproj|f:\\projects\\.net-app\\web development\\new folder\\lab01\\lab01\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 418,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "RenderLeftMenu.cshtml",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeDocumentMoniker": "Lab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
@@ -131,20 +119,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyLayoutHelper.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeDocumentMoniker": "Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeToolTip": "Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Lab01\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "Lab01\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T14:40:07.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:46:27.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:01:14.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lab01\\Models\\Student.cs",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\Student.cs",
+              "RelativeToolTip": "Lab01\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:36:32.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LeftMenu.cshtml",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeDocumentMoniker": "Lab01\\Views\\Shared\\LeftMenu.cshtml",
@@ -152,7 +164,46 @@
               "RelativeToolTip": "Lab01\\Views\\Shared\\LeftMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T02:09:37.817Z"
+              "WhenOpened": "2025-11-07T02:09:37.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "Lab01\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T14:40:07.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01\\Program.cs",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Program.cs",
+              "RelativeToolTip": "Lab01\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:01:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lab01\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lab01\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-07T02:19:34.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -168,46 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyLayout.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayout.cshtml",
-              "RelativeDocumentMoniker": "Lab01\\Views\\Shared\\MyLayout.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Shared\\MyLayout.cshtml",
-              "RelativeToolTip": "Lab01\\Views\\Shared\\MyLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:46:27.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Lab01\\Views\\_ViewStart.cshtml",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Lab01\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T01:01:14.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RenderViewComponent.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\ViewComponents\\RenderViewComponent.cs",
-              "RelativeDocumentMoniker": "Lab01\\ViewComponents\\RenderViewComponent.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\ViewComponents\\RenderViewComponent.cs",
-              "RelativeToolTip": "Lab01\\ViewComponents\\RenderViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T14:19:12.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "Lab01\\Models\\MenuItem.cs",
@@ -255,43 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Lab01\\Controllers\\StudentController.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Lab01\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:42:41.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Lab01\\wwwroot\\css\\site.css",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Lab01\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T02:19:34.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Program.cs",
-              "RelativeDocumentMoniker": "Lab01\\Program.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Program.cs",
-              "RelativeToolTip": "Lab01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:01:22.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Lab01\\Views\\_ViewImports.cshtml",
@@ -315,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Lab01\\Views\\Student\\Create.cshtml",
@@ -327,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\appsettings.json",
               "RelativeDocumentMoniker": "Lab01\\appsettings.json",
@@ -336,18 +312,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-07T01:01:10.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Student.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Lab01\\Models\\Student.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\Student.cs",
-              "RelativeToolTip": "Lab01\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:36:32.363Z"
             },
             {
               "$type": "Document",
@@ -363,19 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "Lab01\\Models\\Branch.cs",
-              "ToolTip": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\Branch.cs",
-              "RelativeToolTip": "Lab01\\Models\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:35:58.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "Gender.cs",
               "DocumentMoniker": "F:\\projects\\.net-app\\Web Development\\New folder\\Lab01\\Lab01\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "Lab01\\Models\\Gender.cs",
